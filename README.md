@@ -19,4 +19,4 @@ I build cloud platforms, backend services and developer infrastructure for healt
 ## Elsewhere
 
 - Portfolio: [keshav-7.github.io](https://keshav-7.github.io)
-- LinkedIn: [in/keshav07](https://www.linkedin.com/in/keshav-er/)
+- LinkedIn: [in/keshav-er](https://www.linkedin.com/in/keshav-er/)
